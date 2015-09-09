@@ -1,0 +1,46 @@
+/* File: styles.css
+main style sheet for Lebo Railways production site
+Last modified 7/4/2015 */
+
+/* yellow main heading h1 */
+h1 {font-family:"Times New Roman", Times, serif;color:#FFFF00;font-size:xx-large;}
+
+/* BODY */
+/* new grey webpage background */  
+body {background: #293333;}
+
+/* body width */
+body {width:auto;}
+
+/* paragraph width */
+p {width:auto;}
+
+/* white text */ 
+h2 {color:#FFFFFF;}
+h3 {color:#FFFFFF;}
+th {color:#FFFFFF;}   /* table heading  */
+tr {color:#FFFFFF;}   /* table row      */
+li {color:#FFFFFF;}   /* list element text */
+p {color:#FFFFFF;}
+b {color:#FFFFFF;}    /* bold           */
+i {color:#FFFFFF;}    /* italic         */
+
+figcaption {color:#FFFFFF;}
+
+/* text style mods */
+underline {text-decoration:underline;}
+
+/* Hyperlink mods */
+a:link {color:#2ECCFA; text-decoration:none;}         /* unvisited link  */
+a:visited {color:#FF00FF; text-decoration:none;}      /* visited link    */
+a:hover {color:#00FF00; text-decoration:underline;}   /* mouse over link */
+a:active {color:#FFFFFF; text-decoration:underline;}  /* selected link   */
+
+/* Margin mods */
+figure {margin:0}
+
+/* images fit screen width */
+img {max-width: 100%; height:auto;}
+
+/* NOTE: Internet Explorer does not support declaration of new text element, must use predefined
+element (h1, h2, h3, p, b, i, figcaption) */

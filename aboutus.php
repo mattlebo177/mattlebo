@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<!-- 8/31/2015 -->
+<!-- 9/8/2015 -->
 
 <html>
 
 	<head>
 		<title>About Us</title>
 	
-		<meta name="description" content="Lebo Railways - Where Rail Meets the Wild">
+		<meta name="description" content="Matt Lebo">
 		<meta name=viewport content="width=device-width, initial-scale=1"> <!-- Optimizes mobile device screen width -->
 	
 		<link rel="icon" type="image/x-icon" href="/favicon.ico"/>
@@ -29,11 +29,11 @@
 		<br/><br/>
 		<!-- Server Specs -->
 		<h3>Current Server:</h3>
-			<p>Raspberry Pi Model-B Rev2 (Sept 2012 release)<br/>
+			<p>Raspberry Pi 2 Model B (February 2015 release)<br/>
 				<br/>
-				Processor: ARM1176JZF-S @700MHz<br/>
-				Ram: 512MB DDR2<br/>
-				HDD: 8GB SanDisk Card<br/>
+				Processor: ARM Cortex-A7 quad-core @900MHz<br/>
+				Ram: 1GB DDR2<br/>
+				HDD: 32GB SanDisk Class 10 MicroSD Card<br/>
 				OS: Raspbian OS (Debian 7.5 based)</p>
 		<br/><br/>
 		

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 8/22/2015 -->
+<!-- 9/9/2015 -->
 
 <html>
 
@@ -16,8 +16,8 @@
 	
 	<body>
 		<h1>Misc Photos</h1>
-			<p><a href = "/photos/bethlehemsteel.php">Bethlehem Steel</a><br/>
-			<p><a href = "/photos/oceancitymd/oceancitymd.php">Ocean City, MD</a><br/>
+			<a href = "/photos/bethlehemsteel.php">Bethlehem Steel</a><br/>
+			<a href = "/photos/oceancitymd/oceancitymd.php">Ocean City, MD</a><br/>
 
 
 	<br/><br/>

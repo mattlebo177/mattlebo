@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 6/30/2015 -->
+<!-- 9/13/2015 -->
 
 <html>
 
@@ -35,34 +35,43 @@
 		<!-- image from drone -->
 		<h3>Photos taken with my drone:</h3>
 		<figure>
-			<img src="/images/backfield1.jpg" title="My DJI Phantom 2 Vision Plus" alt="My DJI Phantom 2 Vision Plus">
+			<img src="/images/backfield1.jpg" title="Back Field" alt="Back Field">
 		</figure>
 		
 		<!-- image from drone -->
 		<figure>
-			<img src="/images/backfield2.jpg" title="My DJI Phantom 2 Vision Plus" alt="My DJI Phantom 2 Vision Plus">
+			<img src="/images/backfield2.jpg" title="Back Field" alt="Back Field">
 		</figure>
 		
 		<!-- image from drone -->
 		<figure>
-			<img src="/images/backfield3.jpg" title="My DJI Phantom 2 Vision Plus" alt="My DJI Phantom 2 Vision Plus">
+			<img src="/images/backfield3.jpg" title="Back Field" alt="Back Field">
 		</figure>
 		
 		<!-- image from drone -->
 		<figure>
-			<img src="/images/jeremy1.jpg" title="My DJI Phantom 2 Vision Plus" alt="My DJI Phantom 2 Vision Plus">
+			<img src="/images/jeremy1.jpg" title="Jeremy's House" alt="Jeremy's House">
 		</figure>
 		
 		<!-- image from drone -->
 		<figure>
-			<img src="/images/jeremy2.jpg" title="My DJI Phantom 2 Vision Plus" alt="My DJI Phantom 2 Vision Plus">
+			<img src="/images/jeremy2.jpg" title="Jeremy's House" alt="Jeremy's House">
 		</figure>
 		
 		<!-- image from drone -->
 		<figure>
-			<img src="/images/kutztowntrain.jpg" title="My DJI Phantom 2 Vision Plus" alt="My DJI Phantom 2 Vision Plus">
+			<img src="/images/kutztowntrain.jpg" title="Viscose 6 Kutztown Bicentennial Run" alt="Viscose 6 Kutztown Bicentennial Run">
 		</figure>
-		
+
+		<!-- image from drone -->
+		<figure>
+			<img src="/images/burkholderfarm.jpg" title="Burkholder Farm" alt="Burkholder Farm">
+		</figure>
+
+		<!-- image from drone -->
+		<figure>
+			<img src="/images/ericspond.jpg" title="Lebo farm and pond" alt="Lebo farm and pond">
+		</figure>
 	</body>
 	<br/>
 	

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 
-<!-- 8/31/2015 -->
+<!-- 9/13/2015 -->
 
 <html>
 
 	<head>
 		<title>Matt Lebo's Homepage</title>
 	
-		<meta name="description" content="Matt Lebo">
+		<meta name="description" content="Matt Lebo's Homepage">
 		<meta name=viewport content="width=device-width, initial-scale=1"> <!-- Optimizes mobile device screen width -->
 	
 		<link rel="icon" type="image/x-icon" href="/favicon.ico"/>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 9/9/2015 -->
+<!-- 9/19/2015 -->
 
 <html>
 
@@ -23,7 +23,8 @@
 			<a href = "http://www.w3Schools.com/">W3schools Web Programming Tutorials</a><br/>
 			<a href = "https://developers.google.com/speed/pagespeed/insights/">Google PageSpeed Insights</a><br/>
 			<a href = "http://www.wolframalpha.com/examples/WebAndInternet.html">Wolfram Aplha Web</a><br/>
-			
+			<a href = "https://www.reddit.com/r/gadgets/">Reddit Gadgets</a><br/>
+			<a href = "https://www.reddit.com/r/techsupportmacgyver/">Reddit Tech Support MacGyver</a><br/>
 			
 
 	<br/><br/>
@@ -34,9 +35,9 @@
 	<footer>
 	<!-- Navigation bar -->
 	<?php 
-		include ('/navbar.php'); 
+		include ('navbar.php'); 
 		echo "<br/><br/>";
-		include ('/sitemessage.php');
+		include ('sitemessage.php');
 	?>
 
 	</footer>

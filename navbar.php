@@ -1,6 +1,6 @@
 <?php
 /*adds horizontal navigation menu to main webpages
-Last modified: 9/11/2015 */
+Last modified: 9/25/2015 */
 
 echo
 //formatting
@@ -9,7 +9,7 @@ echo
 echo
 //insert links here	
 	' <a href = "/"> Home |</a>
-	<a href = "/leborailwaysdocs/"> Employee Portal |</a>
+	<a href = "/employeedocs/"> Employee Portal |</a>
 	<a href = "/radio/"> Amateur Radio |</a>
 	<a href = "/drones/"> Drones |</a>
 	<a href = "/aboutme.php"> About Me |</a>

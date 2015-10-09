@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 7/4/2015 -->
+<!-- 9/30/2015 -->
 
 <html>
 
@@ -53,6 +53,12 @@
 		<h3>Blast Furnaces seen from Hungarian Cemetery</h3>
 		<figure>
 			<img src="bethsteeloverview.jpg" title="Bethlehem Steel Blast Furnace from Hungarian Cemetery" alt="Bethlehem Steel Blast Furnace from Hungarian Cemetery">
+		</figure>
+
+		<!-- image from cemetery -->
+		<h3>Blast Furnaces at night</h3>
+		<figure>
+			<img src="bethsteelnight1.jpg" title="Bethlehem Steel blast furnaces at night" alt="Bethlehem Steel blast furnaces at night">
 		</figure>
 		
 	</body>

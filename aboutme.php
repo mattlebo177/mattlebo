@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 9/11/2015 -->
+<!-- 10/3/2015 -->
 
 <html>
 
@@ -53,7 +53,18 @@
 				Ram: 1GB DDR2<br/>
 				HDD: 32GB SanDisk Class 10 MicroSD Card<br/>
 				OS: Raspbian OS (Debian 7.8 based)<br/>
-				Webserver Software: NGINX 1.2.1 / PHP5</p>
+				Webserver Software: NGINX 1.6.2 / PHP5</p>
+				<br/>
+
+		<h3>New Server (Currently in testing):</h3>
+			<p>Dell PowerEdge R610<br/>
+				<br/>
+				Processor: Dual Intel Xeon Quad Core L5520 @2.27GHz<br/>
+				Ram: 12GB DDR3 ECC<br/>
+				HDD: 146GB Hitachi 10K SAS<br/>
+				OS: Centos 7<br/>
+				Remote Management: iDRAC 6 Enterprise<br/>
+				Webserver Software: NGINX 1.6.3 / PHP5 / Vsftpd3</p>
 		<br/><br/>
 		
 		<h3>My Sites:</h3>

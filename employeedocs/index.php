@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 9/25/2015 -->
+<!-- 10/9/2015 -->
 
 <html>
 
@@ -18,8 +18,10 @@
 		<h1>Employee Portal</h1>
 
 		<p>
-			<a href = "http://www.mattlebo.com:4200">Shellinabox SSH (Raspberry Pi)</a><br/>
 			<a href = "http://www.mattlebo.com:10000">Webmin (Raspberry Pi)</a><br/>
+			<a href = "http://www.mattlebo.com:10001">Webmin (PowerEdge R610)</a><br/>
+			<a href = "https://www.mattlebo.com">PowerEdge R610 iDRAC</a><br/>
+			<a href = "ftp://www.mattlebo.com">FTP Site</a><br/>
 			<a href = "https://github.com/mattlebo177/mattlebo.com/">GitHub Website Source Code</a><br/>
 			<a href = "/employeedocs/network_map.png">Network Map</a><br/></p>
 

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 9/9/2015 -->
+<!-- 9/2/2016 -->
 
 <html>
 
@@ -15,10 +15,15 @@
 	</head>
 	
 	<body>
-		<h1>Misc Photos</h1>
-			<a href = "/photos/bethlehemsteel.php">Bethlehem Steel</a><br/>
-			<a href = "/photos/oceancitymd/oceancitymd.php">Ocean City, MD</a><br/>
 
+		<h1>Misc Photos</h1>
+			
+			<a href = "/photos/oceancitymd2015/oceancitymd2015.php">Ocean City, MD 2015</a><br/>
+			<a href = "/photos/oceancitymd2016/oceancitymd2016.php">Ocean City, MD 2016</a><br/>
+			<a href = "/photos/bethlehemsteel/bethlehemsteel.php">Bethlehem Steel</a><br/>
+			<a href = "/photos/lehighuniversity/lehighuniversity.php">Lehigh University Tower</a><br/>
+			<a href = "/photos/anthracitemines/anthracitemines.php">Anthracite Mines</a><br/>
+			<a href = "/photos/keroseneheaters/keroseneheaters.php">Kerosene Heaters</a><br/>
 
 	<br/><br/>
 	

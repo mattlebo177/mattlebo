@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 10/3/2015 -->
+<!-- 12/18/2016 -->
 
 <html>
 
@@ -45,26 +45,18 @@
 			<figcaption>Web Programming only requires a simple text editor such as Notepad++ (shown above).</figcaption>
 		</figure>
 		<br/><br/>
-		<!-- Server Specs -->
-		<h3>Current Server:</h3>
-			<p>Raspberry Pi 2 Model B (February 2015 release)<br/>
-				<br/>
-				Processor: ARM Cortex-A7 quad-core @900MHz<br/>
-				Ram: 1GB DDR2<br/>
-				HDD: 32GB SanDisk Class 10 MicroSD Card<br/>
-				OS: Raspbian OS (Debian 7.8 based)<br/>
-				Webserver Software: NGINX 1.6.2 / PHP5</p>
-				<br/>
 
-		<h3>New Server (Currently in testing):</h3>
-			<p>Dell PowerEdge R610<br/>
+		<!-- Server Specs -->
+		<h3>Curent Server:</h3>
+			<p>Dell PowerEdge R710<br/>
 				<br/>
-				Processor: Dual Intel Xeon Quad Core L5520 @2.27GHz<br/>
-				Ram: 12GB DDR3 ECC<br/>
-				HDD: 146GB Hitachi 10K SAS<br/>
-				OS: Centos 7<br/>
+				Processor: 2x Intel Xeon Quad Core X5570 @ 2.93GHz<br/>
+				Ram: 48GB DDR3 1066MHz ECC<br/>
+				HDD: 2x 146GB Hitachi 10K SAS (RAID 1)<br/>
+				Host OS: VMWare ESXi 6.0.0 U2<br/>
+				Guest OS's: Debian 8, CentOS 7
 				Remote Management: iDRAC 6 Enterprise<br/>
-				Webserver Software: NGINX 1.6.3 / PHP5 / Vsftpd3</p>
+				Webserver Software: NGINX / PHP5 / Vsftpd</p>
 		<br/><br/>
 		
 		<h3>My Sites:</h3>

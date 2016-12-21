@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- 9/19/2015 -->
+<!-- 8/13/2016 -->
 
 <html>
 
@@ -16,8 +16,10 @@
 	
 	<body>
 		<h1>Miscellaneous Links</h1>
-			<a href = "http://weather.wdtinc.com/clients/trackerStreamers/?DEMO=false&USERID=10423&INIT_LAT=40.45&INIT_LON=-75.82&INIT_ZOOM=7">iMap Weather Radar</a><br/>
+			<a href = "http://content.wdtinc.com/clients/citadel/map.php?MAPID=12577&CLIENTID=20589&ZIP=19522">iMap Weather Radar</a><br/>
+			<a href = "https://www.wunderground.com/wundermap/">WunderMap</a><br/>
 			<a href = "http://weather.rap.ucar.edu/model/?model=gfs">Model Forecast Data</a><br/>
+			<a href = "http://www.pennpilot.psu.edu/">Penn Pilot (1930s-1970s PA Aerial Photos)</a><br/>
 			<a href = "https://www.geocaching.com/map/default.aspx">Geocache Map</a><br/>
 			<a href = "http://nginx.org/en/">NGINX</a><br/>
 			<a href = "http://www.w3Schools.com/">W3schools Web Programming Tutorials</a><br/>

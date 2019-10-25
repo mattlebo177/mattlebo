@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 8/13/2016 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('navbar.php');
+		?>
+
 		<title>Misc Links</title>
 	
 		<meta name="description" content="Misc Links">
@@ -16,7 +22,7 @@
 	
 	<body>
 		<h1>Miscellaneous Links</h1>
-			<a href = "http://content.wdtinc.com/clients/citadel/map.php?MAPID=12577&CLIENTID=20589&ZIP=19522">iMap Weather Radar</a><br/>
+			<a href = "http://weather.wdtinc.com/imap/imaplite/?MAPID=10937&CLIENTID=20485&INIT_ZOOM=8&INIT_LAT=40.33&INIT_LON=-75.93">iMap Weather Radar</a><br/>
 			<a href = "https://www.wunderground.com/wundermap/">WunderMap</a><br/>
 			<a href = "http://weather.rap.ucar.edu/model/?model=gfs">Model Forecast Data</a><br/>
 			<a href = "http://www.pennpilot.psu.edu/">Penn Pilot (1930s-1970s PA Aerial Photos)</a><br/>
@@ -35,10 +41,9 @@
 	<br/><br/>
 
 	<footer>
-	<!-- Navigation bar -->
-	<?php 
-		include ('navbar.php'); 
-		echo "<br/><br/>";
+	
+	<!-- Site Message -->
+	<?php
 		include ('sitemessage.php');
 	?>
 

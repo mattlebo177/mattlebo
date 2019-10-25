@@ -1,6 +1,6 @@
 /* File: styles.css
 main style sheet for Matt Lebo production site
-Last modified 9/30/2015 */
+Last modified 10/25/2019 */
 
 /* yellow main heading h1 */
 h1 {
@@ -27,7 +27,7 @@ h2 {color:#FFFFFF;font-family: 'Arial Black', Gadget, sans-serif;}
 h3 {color:#FFFFFF;font-family: 'Arial Black', Gadget, sans-serif;}
 th {color:#FFFFFF;}   /* table heading  */
 tr {color:#FFFFFF;}   /* table row      */
-li {color:#FFFFFF;}   /* list element text */
+/*li {color:#FFFFFF;}   /* list element text */ */
 p {color:#FFFFFF;}
 b {color:#FFFFFF;}    /* bold           */
 i {color:#FFFFFF;}    /* italic         */

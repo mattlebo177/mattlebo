@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 
-<!-- 9/13/2015 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
-		<title>Matt Lebo's Homepage</title>
-	
 		<meta name="description" content="Matt Lebo's Homepage">
 		<meta name=viewport content="width=device-width, initial-scale=1"> <!-- Optimizes mobile device screen width -->
+
+		<title>Matt Lebo's Homepage</title>
 	
 		<link rel="icon" type="image/x-icon" href="/favicon.ico"/>
 		<link rel="stylesheet" type="text/css" href="/styles.css">
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('navbar.php');
+		?>
+
 	</head>
 	
 	<body>
@@ -30,10 +36,8 @@
 	<br/><br/><br/><br/>
 	
 	<footer>
-	<!-- Navigation bar -->
+	<!-- site message at bottom of page -->
 	<?php 
-		include ('navbar.php');
-		echo "<br/><br/>";
 		include ('sitemessage.php');
 	?>
 	

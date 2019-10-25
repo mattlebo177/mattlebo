@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 9/2/2016 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+	<!-- Navigation Bar -->
+		<?php
+			include ('../../navbar.php');
+		?>
+
 		<title>Ocean City, MD 2015</title>
 	
 		<meta name="description" content="Ocean City, MD 2015">
@@ -211,10 +217,8 @@
 	<br/>
 	
 	<footer>
-	<!-- Navigation bar -->
+	<!-- Site Message -->
 	<?php 
-		include ('../../navbar.php'); 
-		echo "<br/><br/>";
 		include ('../../sitemessage.php');
 	?>
 

@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 7/23/2016 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('../../navbar.php');
+		?>
+
 		<title>Kerosene Heaters</title>
 	
 		<meta name="description" content="Kerosene Heaters">
@@ -16,7 +22,7 @@
 	
 	<body>
 		<h1>Kerosene Heaters</h1>
-		<br/><br/>
+		<br/<br/>
 
 		<h3>Perfection 525, Aladdin Blue Flame, Perfection 1701</h3>
 		<!-- image of heater -->
@@ -121,10 +127,8 @@
 	<br/>
 	
 	<footer>
-	<!-- Navigation bar -->
+	<!-- Site Message -->
 	<?php 
-		include ('../../navbar.php'); 
-		echo "<br/><br/>";
 		include ('../../sitemessage.php');
 	?>
 

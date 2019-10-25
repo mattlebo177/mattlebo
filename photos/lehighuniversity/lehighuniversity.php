@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 11/7/2015 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('../../navbar.php');
+		?>
+
 		<title>Lehigh University Tower</title>
 	
 		<meta name="description" content="Lehigh University Tower">
@@ -50,10 +56,8 @@
 	<br/>
 	
 	<footer>
-	<!-- Navigation bar -->
+	<!-- Site Message -->
 	<?php 
-		include ('../../navbar.php'); 
-		echo "<br/><br/>";
 		include ('../../sitemessage.php');
 	?>
 

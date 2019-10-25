@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 5/2/2014 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('../navbar.php');
+		?>
+
 		<title>Amateur Radio</title>
 	
 		<meta name="description" content="Amateur Radio">
@@ -61,8 +67,6 @@
 	<footer>
 	<!-- Navigation bar -->
 	<?php 
-		include ('../navbar.php'); 
-		echo "<br/><br/>";
 		include ('../sitemessage.php');
 	?>
 

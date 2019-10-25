@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 11/7/2015 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('../../navbar.php');
+		?>
+
 		<title>Bethlehem Steel</title>
 	
 		<meta name="description" content="Bethlehem Steel">
@@ -98,8 +104,6 @@
 	<footer>
 	<!-- Navigation bar -->
 	<?php 
-		include ('../../navbar.php'); 
-		echo "<br/><br/>";
 		include ('../../sitemessage.php');
 	?>
 

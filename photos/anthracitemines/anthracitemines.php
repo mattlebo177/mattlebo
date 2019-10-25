@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 2/28/2016 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('../../navbar.php');
+		?>
+
 		<title>Anthracite Mines</title>
 	
 		<meta name="description" content="Anthracite Mines">
@@ -46,27 +52,9 @@
 		</figure>
 		<br/><br/>
 
-		<h3>Looking Inside the First Opening</h3>
-		<!-- image from mine -->
-		<figure>
-			<img src="headframeinside.jpg" title="First Opening" alt="First Opening">
-		</figure>
-		<br/><br/>
-
 		<h3>Second Opening</h3>
 		<!-- image from mine -->
-		<figure>
-			<img src="secondopening.jpg" title="Looking West from Inside Tower" alt="Looking West from Inside Tower">
-		</figure>
-		<br/><br/>
-
-		<h3>Inside Second Opening</h3>
-		<!-- image from mine -->
-		<figure>
-			<img src="insidesecondopening.jpg" title="Inside Second Opening" alt="Inside Second Opening">
-		</figure>
-		<br/><br/>
-		
+	
 		<h3>Potts Mine drainage</h3>
 		<!-- image from potts mine -->
 		<figure>
@@ -102,19 +90,6 @@
 		</figure>
 		<br/><br/>
 		
-		<h3>Inside Merrian Slope</h3>
-		<!-- image from merrian -->
-		<figure>
-			<img src="DSC_7768.jpg" title="Inside Merrian Slope" alt="Inside Merrian Slope">
-		</figure>
-		<br/><br/>
-		
-		<h3>Merrian Slope Collapse</h3>
-		<!-- image from merrian -->
-		<figure>
-			<img src="DSC_7773.jpg" title="Merrian Slope Collapse" alt="Merrian Slope Collapse">
-		</figure>
-		<br/><br/>
 		
 		<h3>East Ridge Colliery Slope 1</h3>
 		<!-- image from heckshersville -->
@@ -185,14 +160,7 @@
 			<img src="DSC_8007.jpg" title="Main Buck Slope Date Stone" alt="Main Buck Slope Date Stone">
 		</figure>
 		<br/><br/>
-		
-		<h3>Looking Down Main Buck Slope</h3>
-		<!-- image from st. clair -->
-		<figure>
-			<img src="DSC_8008.jpg" title="Looking Down Main Buck Slope" alt="Looking Down Main Buck Slope">
-		</figure>
-		<br/><br/>
-		
+				
 		<h3>Culm Pile Around Entrance</h3>
 		<!-- image from st. clair -->
 		<figure>
@@ -309,13 +277,11 @@
 	<br/>
 	
 	<footer>
-	<!-- Navigation bar -->
+	<!-- site message at bottom of page -->
 	<?php 
-		include ('../../navbar.php'); 
-		echo "<br/><br/>";
 		include ('../../sitemessage.php');
 	?>
-
+	
 	</footer>
 
 </html>

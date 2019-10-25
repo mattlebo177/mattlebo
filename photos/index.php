@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 
-<!-- 9/2/2016 -->
+<!-- 10/25/2019 -->
 
 <html>
 
 	<head>
+
+		<!-- Navigation Bar -->
+		<?php
+			include ('../navbar.php');
+		?>
+
 		<title>Misc Photos</title>
 	
 		<meta name="description" content="Misc Photos">
@@ -31,10 +37,9 @@
 	<br/><br/>
 
 	<footer>
-	<!-- Navigation bar -->
-	<?php 
-		include ('../navbar.php'); 
-		echo "<br/><br/>";
+	
+	<!-- Site Message -->
+	<?php
 		include ('../sitemessage.php');
 	?>
 
